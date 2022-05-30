@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cobblestone","overrides":[{"predicate":{"custom_model_data":1},"model":"itemsadder:auto_generated/modern_stone"},{"predicate":{"custom_model_data":2},"model":"minecraft:item/cobblestone"}]}

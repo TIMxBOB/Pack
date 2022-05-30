@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/sandstone","overrides":[{"predicate":{"custom_model_data":1},"model":"itemsadder:auto_generated/modern_sandstone"},{"predicate":{"custom_model_data":2},"model":"minecraft:item/sandstone"}]}

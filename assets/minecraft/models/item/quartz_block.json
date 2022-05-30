@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/quartz_block","overrides":[{"predicate":{"custom_model_data":1},"model":"itemsadder:auto_generated/modern_quartz"},{"predicate":{"custom_model_data":2},"model":"minecraft:item/quartz_block"}]}

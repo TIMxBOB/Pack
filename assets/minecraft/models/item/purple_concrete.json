@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/purple_concrete","overrides":[{"predicate":{"custom_model_data":1},"model":"itemsadder:auto_generated/amethyst_block"},{"predicate":{"custom_model_data":2},"model":"minecraft:item/purple_concrete"}]}

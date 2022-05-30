@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/iron_ore","overrides":[{"predicate":{"custom_model_data":1},"model":"itemsadder:auto_generated/bronze_ore"},{"predicate":{"custom_model_data":2},"model":"minecraft:item/iron_ore"}]}
